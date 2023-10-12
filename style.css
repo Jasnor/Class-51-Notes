@@ -1,0 +1,41 @@
+/* *{
+    border: solid;
+} */
+
+h1{
+    color:red;
+}
+
+.header{
+  background-color:#6f8faf;
+  display:flex ;
+  justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content:space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+
+.site-description{
+    align-items: center;
+}
+
+p{
+    text-align: center;
+    font-weight: bolder;
+    color : rgb(255,87,51);
+}
+
+body{
+    background-color: #A7c7e7;
+}
+.game-types{
+    color:rgb(199,00,51)
+}
